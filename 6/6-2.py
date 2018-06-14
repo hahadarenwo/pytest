@@ -1,0 +1,1 @@
+#pyCharm安装第三方库 settings -->project :python -->project interpreter
